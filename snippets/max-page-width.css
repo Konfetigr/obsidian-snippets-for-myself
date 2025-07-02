@@ -1,5 +1,7 @@
-/* max page width in preview and editor максимальный размер страницы заметок и в редакторе и в просмотре */
-.markdown-preview-view .markdown-preview-sizer, .markdown-source-view .cm-sizer {
-    max-width: 1000px;
+/* max page width in preview and editor максимальный размер страницы заметок и в редакторе и в просмотре 
+editor -> readable line lenght must be OFF
+ * */
+.markdown-reading-view .markdown-preview-view .markdown-preview-sizer, .view-content .markdown-source-view .cm-sizer {
+    max-width: 400px;
     margin: auto;
 }
