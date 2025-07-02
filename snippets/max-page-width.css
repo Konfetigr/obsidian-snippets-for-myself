@@ -2,6 +2,6 @@
 editor -> readable line lenght must be OFF
  * */
 .markdown-reading-view .markdown-preview-view .markdown-preview-sizer, .view-content .markdown-source-view .cm-sizer {
-    max-width: 400px;
+    max-width: 1000px;
     margin: auto;
 }
