@@ -22,6 +22,8 @@ Obsidian snippets that I made for my convenience
 - Increases the maximum line length in both preview and editor modes, allowing you to easily set your own preferred value.
 - Увеличивает максимальную длинну строки как в предпросмотре так и в редакторе, можешь легко задать свое значение.
 
+- !!! Editor -> Readable Line Lenght must be OFF. (Параметр должен быть выключен)
+
 
 ======width-align.css=======
 - Sets text alignment to justified.
